@@ -6,6 +6,7 @@ export const portfolioData = {
     college: "R.M.D. Engineering College",
     degree: "B.Tech Artificial Intelligence and Machine Learning",
     year: "Second Year",
+    studyPeriod: "2025 — 2029",
     email: "karthikeyanmaran2007@gmail.com",
     headline: "Building thoughtful software, one problem at a time.",
     subtitle:

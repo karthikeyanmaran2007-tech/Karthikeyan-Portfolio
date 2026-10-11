@@ -90,7 +90,7 @@ export default function About() {
                 </div>
 
                 <span className="font-mono text-[11px] text-[#91ADFF] bg-[#0B0D11] border border-[#272D39] px-2.5 py-1 rounded">
-                  2024 — Present
+                  {portfolioData.personal.studyPeriod || '2025 — 2029'}
                 </span>
               </div>
 
